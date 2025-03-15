@@ -30,8 +30,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/TextCompare",
-          "tag": "v0.1.0",
-          "commit": "70db590bf742e7b3d72d22b3a63dd44ad7edb1ee"
+          "tag": "v0.1.1",
+          "commit": "676621b2e5d1b38244289ef4548d79494d4188c4"
         }
       ]
     }

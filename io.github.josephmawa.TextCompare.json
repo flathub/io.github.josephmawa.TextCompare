@@ -1,7 +1,7 @@
 {
   "id": "io.github.josephmawa.TextCompare",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "50",
+  "runtime-version": "51",
   "sdk": "org.gnome.Sdk",
   "command": "io.github.josephmawa.TextCompare",
   "finish-args": [
@@ -19,8 +19,8 @@
         {
           "type": "git",
           "url": "https://github.com/josephmawa/TextCompare",
-          "tag": "v0.1.11",
-          "commit": "c9879fb48ec1f5669386f24bf1c88420a727809a"
+          "tag": "v0.1.12",
+          "commit": "cfa64ba1c1ca784498f75d4f357f1db682190b41"
         }
       ]
     }
